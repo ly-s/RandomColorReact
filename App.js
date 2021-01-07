@@ -9,25 +9,25 @@ const App = () => {
 
   //Declare variable
   //var counter = 0;
-  const [counter, setCounter] = useState(0);
-
+  const [color, setColor] = useState('black');
+  
   return (
     <View style={styles.container}>
-      <Text>Current Count : {counter}</Text>
-      <Button title="Increment"
+      <Text style = {{color: color}}>Current Count</Text>
+      <Button title="Change color"
       onPress={()=>{
         //counter++;
-        setCounter(counter + 1);
-        console.log(counter);
+        setColor('rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')');
+        console.log(color);
       }}
       />
-      <Button title="Decrement"
+      {/* <Button title="Decrement"
       onPress={()=>{
         //counter--;
         setCounter(counter - 1);
         console.log(counter);
       }}
-      />
+      /> */}
       <StatusBar style="auto" />
     </View>
   );
