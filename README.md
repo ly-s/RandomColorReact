@@ -1,7 +1,7 @@
 # Counter_React_App
 Sample demo of state and react hooks
 
-Screenshot :
-
-
-[![Screenshot-2021-01-07-at-2-32-34-AM.png](https://i.postimg.cc/C5vr7G0h/Screenshot-2021-01-07-at-2-32-34-AM.png)](https://postimg.cc/MfQYKjXN)
+## Screenshot
+[![Screen-Shot-2021-01-07-at-8-18-30-AM.png](https://i.postimg.cc/d0GmBqKQ/Screen-Shot-2021-01-07-at-8-18-30-AM.png)](https://postimg.cc/675v6x3F)
+[![Screen-Shot-2021-01-07-at-8-18-34-AM.png](https://i.postimg.cc/hPHd3HsX/Screen-Shot-2021-01-07-at-8-18-34-AM.png)](https://postimg.cc/4mQyY2rG)
+[![Screen-Shot-2021-01-07-at-8-21-24-AM.png](https://i.postimg.cc/NjnB4ckn/Screen-Shot-2021-01-07-at-8-21-24-AM.png)](https://postimg.cc/sM5kjb8P)
